@@ -1,0 +1,3 @@
+[submodule "1-qr-code"]
+	path = 1-qr-code
+	url = https://github.com/yusupaara/1-qr-code
