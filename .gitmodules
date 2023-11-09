@@ -1,3 +1,6 @@
 [submodule "1-qr-code"]
 	path = 1-qr-code
 	url = https://github.com/yusupaara/1-qr-code
+[submodule "2-result-summary"]
+	path = 2-result-summary
+	url = https://github.com/yusupaara/2-result-summary
