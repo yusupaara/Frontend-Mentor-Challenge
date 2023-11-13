@@ -4,3 +4,6 @@
 [submodule "2-result-summary"]
 	path = 2-result-summary
 	url = https://github.com/yusupaara/2-result-summary
+[submodule "3-newsletter-signup"]
+	path = 3-newsletter-signup
+	url = https://github.com/yusupaara/3-newsletter-signup
