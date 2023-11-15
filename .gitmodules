@@ -7,3 +7,6 @@
 [submodule "3-newsletter-signup"]
 	path = 3-newsletter-signup
 	url = https://github.com/yusupaara/3-newsletter-signup
+[submodule "4-news-homepage"]
+	path = 4-news-homepage
+	url = https://github.com/yusupaara/4-news-homepage
