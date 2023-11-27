@@ -10,3 +10,6 @@
 [submodule "4-news-homepage"]
 	path = 4-news-homepage
 	url = https://github.com/yusupaara/4-news-homepage
+[submodule "5-ip-address-tracker"]
+	path = 5-ip-address-tracker
+	url = https://github.com/yusupaara/5-ip-address-tracker
